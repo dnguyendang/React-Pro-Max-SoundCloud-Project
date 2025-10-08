@@ -46,8 +46,8 @@ const WaveTrack = (props: any) => {
             waveColor: gradient,
             progressColor: progressGradient,
             url: `/api?audio=${fileName}`, // remote 
-            barWidth: 2,
-            height: 150,
+            barWidth: 3,
+            height: 100,
         }
     }, [])
 
