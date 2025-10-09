@@ -51,4 +51,6 @@ declare global {
         result: T[]
     }
 
+
+
 }
